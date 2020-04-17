@@ -1,3 +1,3 @@
-# Git Practice
-
-Hello, Git!
+git 
+git finish
+please
